@@ -18,7 +18,7 @@
 - Coordeno projetos, pricing e marketing numa rede regional de supermercados no sul da Bahia.
 - Transformo dado do ERP em decisão: margem, perdas, estoque, campanhas e jornada das equipes.
 - Desenvolvo os sistemas internos da família **K** com agentes de IA (Claude) e muito teste.
-- Estudo Análise e Desenvolvimento de Sistemas na Estácio e mercado financeiro em conta demo.
+- Estudo Análise e Desenvolvimento de Sistemas na Estácio e mercado financeiro.
 
 ### O que estou construindo
 
